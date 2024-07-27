@@ -1,0 +1,12 @@
+prisma
+    model Folder {
+    id        Int          di       server _id       dosFrom (${path }       ,      . .echo (. function ),
+            name    String  add     migrated with Apple
+    }
+  
+    model File {
+      id       Int      di        server _id       dosFrom ( {path }       ,
+            name    String  add     migrated with Apple,
+            folderId  Int       id          server _folder _id  
+    }
+  
